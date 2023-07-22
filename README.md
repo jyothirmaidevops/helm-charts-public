@@ -1,2 +1,1 @@
-# helm-charts-public
-My public Helm Charts
+# Helm Repo on GitHub

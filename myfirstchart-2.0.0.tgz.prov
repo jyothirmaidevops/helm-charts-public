@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v2
+appVersion: 1.0.0
+description: A Helm Chart with NodePort Service
+name: myfirstchart
+type: application
+version: 2.0.0
+
+...
+files:
+  myfirstchart-2.0.0.tgz: sha256:99eee60777efed80657c7ef4de6b002258ee344a3397fa177f13399a44361611
+-----BEGIN PGP SIGNATURE-----
+
+wsDcBAEBCgAQBQJku6KrCRCibigwzdHlvQAAG+oMADzpBnazjarxefyqQ9aIcZ3x
+Ek+Uwo7LBKSC1sconqNgH57t1b9l/J3hbTS9KRLAgya2o3JWEiczry9BeBr3QMel
+GhCRVxHKxRDunMWefp+z8W+8aRdPtIvq1QbvA2Pdr0ojOSsTcnMTjqHWmJYl0rBp
+MetzzMrW8/R0i41fuelyMAnwTQwqtgZws6IBin1ahU+7tX8Xu0738nwZFWf+eVxV
++rtcCTdNJnh0JA43OBAmQNAYbu1q1GNlN0Iq2FVWa1f614cItje9T2zHZD321poM
+SljRbSeGBV/okKSygoZ9ONTukJvX8s2DoEZc5Hm2EUikKppvdX+dSc+Trc+iTvQm
+DP3jhesJSVeYIgZyyWF/K4hrELN8tcWYBvYS8bkAOgy81UXJEQOwUavn1qclztzr
+xNIaCaq5DejEMXKNzvKuCbb/Amoc+IBtOlW8KM+E0Q++lqUyynxWU1+hDBdkXGvy
+jTcrgtEaGXeN1I7FCXlbTmwlSbMDLf1n8y59AQuS5g==
+=728b
+-----END PGP SIGNATURE-----
