@@ -3,7 +3,7 @@ entries:
   myfirstchart:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-07-22T15:28:51.008927+05:30"
+    created: "2023-07-22T16:00:06.276135+05:30"
     description: A Helm Chart with NodePort Service
     digest: 99eee60777efed80657c7ef4de6b002258ee344a3397fa177f13399a44361611
     name: myfirstchart
@@ -11,4 +11,15 @@ entries:
     urls:
     - https://stacksimplify.github.io/helm-charts-public/myfirstchart-2.0.0.tgz
     version: 2.0.0
-generated: "2023-07-22T15:28:51.007604+05:30"
+  mysecondchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-07-22T16:00:06.276889+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 37f89e26a3804c86be67ca0fd8528c4b0769806a9fe8a6d9d776b0a776d06a74
+    name: mysecondchart
+    type: application
+    urls:
+    - https://stacksimplify.github.io/helm-charts-public/mysecondchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-07-22T16:00:06.272983+05:30"
